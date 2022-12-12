@@ -1,0 +1,23 @@
+{
+  "name": "ajs-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dieweltverbrennt/ajs-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dieweltverbrennt/ajs-library/issues"
+  },
+  "homepage": "https://github.com/dieweltverbrennt/ajs-library#readme",
+  "dependencies": {
+    "@dieweltverbrennt/ajs-platforms": "^1.0.0"
+  }
+}
